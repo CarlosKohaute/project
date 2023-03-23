@@ -22,7 +22,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nestjs/swagger": "^6.2.1",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "puppeteer": "^19.7.5",
